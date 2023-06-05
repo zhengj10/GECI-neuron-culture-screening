@@ -7,7 +7,7 @@ zhengj10@janelia.hhmi.org
 
 ## Requirement
 Python 3.8 (installed via Anaconda)  
-PywaveSurfer  
-ilastik
+PywaveSurfer (https://github.com/JaneliaSciComp/PyWaveSurfer)  
+ilastik (https://www.ilastik.org/)
 
 
