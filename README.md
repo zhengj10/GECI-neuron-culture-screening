@@ -1,5 +1,13 @@
 # GECI-neuron-culture-screening
-Processes and analyzes the results of GECI screening on the GENIE pipeline. Allows for manual curation of good/bad wells on a single-well basis. Creates mat structures for meta-analysis.
+Python implementation of GECI screening pipeline (https://github.com/ilyakolb/NAA_analysis).
 ## Authur
 Jihong Zheng
 HHMI Janelia Reseach Campus, GENIE project
+zhengj10@janelia.hhmi.org
+
+## Requirement
+Python 3.8 (installed via Anaconda)
+PywaveSurfer
+ilastik
+
+
