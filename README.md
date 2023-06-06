@@ -2,7 +2,7 @@
 Python implementation of GECI screening pipeline (https://github.com/ilyakolb/NAA_analysis).
 ## Authur
 Jihong Zheng  
-GENIE project, HHMI Janelia Reseach Campus
+GENIE project, HHMI Janelia Reseach Campus  
 zhengj10@janelia.hhmi.org
 
 ## Requirement
