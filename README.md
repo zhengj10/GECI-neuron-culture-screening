@@ -10,4 +10,5 @@ Python 3.8 (installed via Anaconda)
 PywaveSurfer (https://github.com/JaneliaSciComp/PyWaveSurfer)  
 ilastik (https://www.ilastik.org/)
 
-
+## Installing ilastik
+This code relies on ilastik to perform cell segmentation. Download ilastik from the link above and set the path in 2 - Append new session *.ipynb to point to your installation.
